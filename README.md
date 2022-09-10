@@ -1,2 +1,2 @@
 # railway-reservation-sys
-a sample railway ticket reservation system using c++
+a simple railway ticket reservation system using c++
